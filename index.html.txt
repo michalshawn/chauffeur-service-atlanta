@@ -94,7 +94,6 @@
             <li><span class="highlight">Professional Image:</span> Arriving in a luxury vehicle can leave a lasting impression, especially for business meetings or events.</li>
         </ul>
 
-        <img src="https://via.placeholder.com/800x400?text=Scenic+Atlanta" alt="Scenic View of Atlanta">
 
         <h2>What to Expect from a Chauffeur Service</h2>
         <ul>
@@ -111,7 +110,6 @@
             <li>Keep the contact number of the chauffeur service handy for any last-minute changes.</li>
         </ul>
 
-        <img src="https://via.placeholder.com/800x400?text=Luxury+Sedan" alt="Luxury Sedan for Chauffeur Service">
 
         <h2>How to Choose the Right Chauffeur Service</h2>
         <p>Follow these tips to select the best service:</p>
